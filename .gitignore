@@ -1,0 +1,4 @@
+# excluding the raw data
+Data/*
+*.log
+metastore_db/*
